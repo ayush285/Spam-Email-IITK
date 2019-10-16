@@ -3,7 +3,7 @@
 """
 Created on Tue Jun  4 12:11:46 2019
 
-@author: dchandak99
+@author: ayush285
 """
 
 '''email classification using k nearest neighbours'''
